@@ -1,0 +1,469 @@
+message,lat,lng,time,summary,icon,temperature,apparentTemperature,dewPoint,humidity,pressure,windSpeed,windGust,windBearing,cloudCover,uvIndex,visibility,ozone,Country
+success,-0.789275,113.921327,1577865600,Humid and Overcast,cloudy,86.77,96.18,75.08,0.68,1008.6,1.73,2.67,173,1,3,10,240.5,Indonesia
+success,-0.789275,113.921327,1577880000,Humid and Overcast,cloudy,76.86,78.38,73.01,0.88,1012.4,3.13,3.19,297,1,0,10,243,Indonesia
+success,-0.789275,113.921327,1577898000,Possible Drizzle and Humid,rain,75.05,76.78,73.95,0.96,1012,1.41,2.75,266,1,0,10,247.1,Indonesia
+success,-0.789275,113.921327,1577952000,Humid and Overcast,cloudy,85.49,94.25,75.01,0.71,1009.5,1.55,3.68,171,0.93,3,10,238.6,Indonesia
+success,-0.789275,113.921327,1577966400,Humid and Overcast,cloudy,77.12,78.64,73.06,0.87,1010.7,1.42,1.51,119,0.99,0,10,238.6,Indonesia
+success,-0.789275,113.921327,1577984400,Rain and Humid,rain,74.46,76.23,73.94,0.98,1011.2,1.45,2.04,322,1,0,10,243.5,Indonesia
+success,-0.789275,113.921327,1578038400,Possible Light Rain and Humid,rain,80.84,87.65,76.6,0.87,1008.4,1.47,1.91,212,0.93,3,10,240,Indonesia
+success,-0.789275,113.921327,1578052800,Humid and Overcast,cloudy,75.7,77.22,72.75,0.91,1010.2,2.29,2.29,46,1,0,10,243.3,Indonesia
+success,-0.789275,113.921327,1578070800,Humid and Overcast,cloudy,74.72,76.42,73.59,0.96,1009.1,1.89,10.34,358,1,0,10,246,Indonesia
+success,-0.789275,113.921327,1578124800,Humid and Mostly Cloudy,partly-cloudy-day,87.4,96.81,74.83,0.66,1005.3,2.56,4.76,34,0.66,3,10,240.7,Indonesia
+success,-0.789275,113.921327,1578139200,Mostly Cloudy,partly-cloudy-night,76.76,77.91,70.24,0.8,1008.2,3.05,3.05,17,0.8,0,10,242.4,Indonesia
+success,-0.789275,113.921327,1578157200,Mostly Cloudy,partly-cloudy-night,73.83,75.28,71.66,0.93,1008.2,1.16,1.39,325,0.78,0,10,243.2,Indonesia
+success,-0.789275,113.921327,1578211200,Humid and Overcast,cloudy,83.27,90.71,74.9,0.76,1006.5,3.31,8.24,81,0.99,3,10,235.7,Indonesia
+success,-0.789275,113.921327,1578225600,Humid and Overcast,cloudy,76.46,77.89,72.24,0.87,1008.7,1.45,1.81,43,0.98,0,10,240.5,Indonesia
+success,-0.789275,113.921327,1578243600,Humid and Mostly Cloudy,partly-cloudy-night,74.36,76.11,73.77,0.98,1009,1.54,1.78,42,0.72,0,10,244.6,Indonesia
+success,-0.789275,113.921327,1578297600,Humid and Mostly Cloudy,partly-cloudy-day,85.45,93.73,74.52,0.7,1006.3,3.16,5.04,71,0.82,3,10,240,Indonesia
+success,-0.789275,113.921327,1578312000,Humid and Mostly Cloudy,partly-cloudy-night,78.2,79.61,72.49,0.83,1009.2,2.13,3.92,74,0.77,0,10,239.9,Indonesia
+success,-0.789275,113.921327,1578330000,Humid and Overcast,cloudy,75.08,76.81,73.91,0.96,1009.2,1.36,1.64,207,0.99,0,10,242.1,Indonesia
+success,-0.789275,113.921327,1578384000,Humid and Overcast,cloudy,88.59,95.83,72.3,0.59,1005.9,2.64,4.44,118,0.93,3,10,245.2,Indonesia
+success,-0.789275,113.921327,1578398400,Overcast,cloudy,77.3,78.52,70.88,0.81,1008.9,1.77,2.27,18,0.96,0,10,247.1,Indonesia
+success,-0.789275,113.921327,1578416400,Overcast,cloudy,74.85,76.25,71.64,0.9,1009.1,2.19,2.88,311,0.99,0,10,245.7,Indonesia
+success,-0.789275,113.921327,1578470400,Humid and Overcast,cloudy,88.19,97.52,74.49,0.64,1006.1,1.52,2.11,126,1,3,10,240.3,Indonesia
+success,-0.789275,113.921327,1578484800,Humid and Overcast,cloudy,79.56,83.1,72.07,0.78,1007.7,1.37,2.23,63,1,0,10,239.9,Indonesia
+success,-0.789275,113.921327,1578502800,Humid and Overcast,cloudy,75.17,76.84,73.56,0.95,1007.8,1.93,2.61,300,1,0,6.139,241.6,Indonesia
+success,-0.789275,113.921327,1578556800,Humid and Mostly Cloudy,partly-cloudy-day,86.52,94.56,73.82,0.66,1005.1,3.41,4.59,115,0.68,3,10,240.3,Indonesia
+success,-0.789275,113.921327,1578571200,Possible Light Rain and Humid,rain,77.71,79.25,73.4,0.87,1007.7,1.53,2.12,213,0.59,0,10,242.2,Indonesia
+success,-0.789275,113.921327,1578589200,Possible Light Rain and Humid,rain,74.24,76.02,74,0.99,1007.6,1.9,1.96,261,1,0,10,243.8,Indonesia
+success,-0.789275,113.921327,1578643200,Humid and Overcast,cloudy,86.41,93.96,73.33,0.65,1005.7,2.82,3.37,85,0.98,3,10,241.8,Indonesia
+success,-0.789275,113.921327,1578657600,Rain and Humid,rain,77.47,78.92,72.61,0.85,1008.1,2.25,10.34,189,0.99,0,10,238.9,Indonesia
+success,-0.789275,113.921327,1578675600,Rain and Humid,rain,73.05,74.72,72.86,0.99,1009.3,1.64,8.53,306,1,0,4.487,243.5,Indonesia
+success,-0.789275,113.921327,1578729600,Humid and Overcast,cloudy,82.13,87.47,72.77,0.73,1006.5,2.33,3.86,329,0.98,3,10,238.4,Indonesia
+success,-0.789275,113.921327,1578744000,Possible Light Rain,rain,74.67,75.96,70.76,0.88,1008.9,1.63,2.31,256,0.99,0,6.161,238.9,Indonesia
+success,-0.789275,113.921327,1578762000,Rain and Humid,rain,73.14,74.79,72.72,0.99,1009.6,1.54,5.79,154,1,0,1.731,242.9,Indonesia
+success,-0.789275,113.921327,1578816000,Humid and Overcast,cloudy,85.95,92.92,72.86,0.65,1007,2.56,7.25,253,0.93,3,10,240.4,Indonesia
+success,-0.789275,113.921327,1578830400,Overcast,cloudy,76.61,77.63,69.16,0.78,1008.1,1.83,2.88,285,0.9,0,10,241.2,Indonesia
+success,-0.789275,113.921327,1578848400,Partly Cloudy,partly-cloudy-night,73.76,75.08,70.79,0.9,1008.2,1.95,2.04,335,0.59,0,10,243.2,Indonesia
+success,-0.789275,113.921327,1578902400,Partly Cloudy,partly-cloudy-day,91.93,97.34,69.44,0.48,1005.4,5,6.48,257,0.41,4,10,244.3,Indonesia
+success,-0.789275,113.921327,1578916800,Partly Cloudy,partly-cloudy-night,80.28,83.47,69.79,0.7,1007.8,1.93,1.98,274,0.57,0,10,243.9,Indonesia
+success,-0.789275,113.921327,1578934800,Partly Cloudy,partly-cloudy-night,74.8,76.23,71.84,0.91,1009.1,1.81,1.94,339,0.4,0,10,244,Indonesia
+success,-0.789275,113.921327,1580544000,Humid and Overcast,cloudy,90.31,101.1,75.11,0.61,1007.8,2.73,2.97,99,0.91,3,10,244.5,Indonesia
+success,-0.789275,113.921327,1580558400,Humid and Overcast,cloudy,79.43,83.03,72.64,0.8,1009.4,2.88,3.27,48,0.95,0,7.833,247.4,Indonesia
+success,-0.789275,113.921327,1580576400,Humid and Overcast,cloudy,77.18,78.73,73.29,0.88,1010.2,2.25,4.55,15,1,0,10,245.3,Indonesia
+success,-0.789275,113.921327,1580630400,Humid and Overcast,cloudy,88.78,98.23,74.42,0.63,1007.9,2.51,3.7,138,0.96,3,10,244.3,Indonesia
+success,-0.789275,113.921327,1580644800,Possible Light Rain,rain,77.9,79.22,71.75,0.81,1010,2.77,5.3,218,1,0,10,245.9,Indonesia
+success,-0.789275,113.921327,1580662800,Possible Light Rain and Humid,rain,75.49,77.28,74.46,0.97,1010.8,1.96,2.35,294,1,0,10,245.1,Indonesia
+success,-0.789275,113.921327,1580716800,Possible Light Rain and Humid,rain,79.72,84.87,76.47,0.9,1008.2,2.69,3.22,291,1,3,8.658,243.9,Indonesia
+success,-0.789275,113.921327,1580731200,Overcast,cloudy,76.04,77.43,71.88,0.87,1011.2,1.45,1.58,329,1,0,10,241,Indonesia
+success,-0.789275,113.921327,1580749200,Possible Light Rain and Humid,rain,74.43,76.14,73.61,0.97,1010.7,1.18,2.37,226,1,0,10,242.2,Indonesia
+success,-0.789275,113.921327,1580803200,Humid and Mostly Cloudy,partly-cloudy-day,86.27,94.68,74.3,0.68,1006.8,2.99,4.53,19,0.8,4,10,245,Indonesia
+success,-0.789275,113.921327,1580817600,Humid and Partly Cloudy,partly-cloudy-night,76.86,78.24,72.02,0.85,1008.8,2.39,3.94,312,0.41,0,10,246.1,Indonesia
+success,-0.789275,113.921327,1580835600,Possible Light Rain and Humid,rain,75.4,77.1,73.89,0.95,1009.3,2.54,2.71,209,0.37,0,5.865,247.8,Indonesia
+success,-0.789275,113.921327,1580889600,Possible Light Rain and Humid,rain,82.23,90.4,76.84,0.84,1006.5,1.01,1.91,205,0.74,4,10,248.3,Indonesia
+success,-0.789275,113.921327,1580904000,Possible Light Rain and Humid,rain,76.67,78.3,73.76,0.91,1008.6,2.39,3.1,242,0.83,0,9.628,251.1,Indonesia
+success,-0.789275,113.921327,1580922000,Humid and Overcast,cloudy,74.46,76.18,73.64,0.97,1010,2.14,2.48,299,1,0,10,250.9,Indonesia
+success,-0.789275,113.921327,1580976000,Humid and Mostly Cloudy,partly-cloudy-day,83.53,91.72,75.59,0.77,1006.7,2.6,4.17,85,0.78,4,10,249.6,Indonesia
+success,-0.789275,113.921327,1580990400,Humid and Mostly Cloudy,partly-cloudy-night,75.63,77.11,72.4,0.9,1009.1,2.01,2.95,346,0.78,0,10,245.3,Indonesia
+success,-0.789275,113.921327,1581008400,Possible Light Rain and Humid,rain,73.13,74.73,72.46,0.98,1009.6,1.06,2.12,287,0.84,0,10,247.1,Indonesia
+success,-0.789275,113.921327,1581062400,Humid and Overcast,cloudy,83.05,90.08,74.53,0.76,1008.5,2.02,5.11,134,1,3,10,244.2,Indonesia
+success,-0.789275,113.921327,1581076800,Humid and Overcast,cloudy,76.59,78.13,73.11,0.89,1010.5,2.06,2.26,79,0.99,0,10,250.5,Indonesia
+success,-0.789275,113.921327,1581094800,Humid and Overcast,cloudy,73.54,75.25,73.27,0.99,1011.3,1.1,2.17,346,0.9,0,10,251.5,Indonesia
+success,-0.789275,113.921327,1581148800,Rain and Humid,rain,82.52,90.03,75.65,0.8,1007.7,2.91,4.52,19,1,3,7.5,246.5,Indonesia
+success,-0.789275,113.921327,1581163200,Possible Light Rain and Humid,rain,75.53,77.04,72.6,0.91,1010.1,1.7,2.6,302,1,0,10,247.7,Indonesia
+success,-0.789275,113.921327,1581181200,Possible Light Rain and Humid,rain,73.99,75.68,73.31,0.98,1010.6,1.48,2.06,332,1,0,9.634,250.3,Indonesia
+success,-0.789275,113.921327,1581235200,Possible Light Rain and Humid,rain,80.24,85.28,74.81,0.84,1008.3,1.92,4.53,75,0.99,3,10,248,Indonesia
+success,-0.789275,113.921327,1581249600,Possible Drizzle,rain,75.36,76.75,71.62,0.88,1010.5,1.13,1.49,146,1,0,10,246.8,Indonesia
+success,-0.789275,113.921327,1581267600,Possible Light Rain and Humid,rain,73.46,75.15,73.13,0.99,1011.9,1.5,7.6,226,1,0,5.392,252.1,Indonesia
+success,-0.789275,113.921327,1581321600,Humid and Overcast,cloudy,82.12,88.16,73.92,0.76,1009.4,3.36,7.78,39,0.99,3,10,246.6,Indonesia
+success,-0.789275,113.921327,1581336000,Overcast,cloudy,74.77,75.98,70.23,0.86,1011.3,2.12,3.35,5,0.95,0,10,246.8,Indonesia
+success,-0.789275,113.921327,1581354000,Rain,rain,72.4,73.95,71.86,0.98,1012,1.47,2.58,12,0.81,0,10,245.1,Indonesia
+success,-0.789275,113.921327,1581408000,Overcast,cloudy,92.83,99.71,70.86,0.49,1009.3,2.14,3.01,128,0.91,3,10,248.4,Indonesia
+success,-0.789275,113.921327,1581422400,Partly Cloudy,partly-cloudy-night,79.23,82.09,70.14,0.74,1011.3,1.94,2.46,313,0.53,0,10,249,Indonesia
+success,-0.789275,113.921327,1581440400,Mostly Cloudy,partly-cloudy-night,75.38,76.68,71.08,0.87,1012.4,2.11,2.42,6,0.83,0,10,251.6,Indonesia
+success,-0.789275,113.921327,1581494400,Mostly Cloudy,partly-cloudy-day,94,101.75,71.46,0.48,1007.8,2.41,3.43,184,0.84,4,10,247.7,Indonesia
+success,-0.789275,113.921327,1581508800,Mostly Cloudy,partly-cloudy-night,81.25,85.65,71.85,0.73,1010.5,2.42,2.42,314,0.84,0,10,250,Indonesia
+success,-0.789275,113.921327,1581526800,Humid and Overcast,cloudy,76.01,77.51,72.6,0.89,1012,1.24,2.48,78,0.96,0,10,251.4,Indonesia
+success,-0.789275,113.921327,1581580800,Humid and Overcast,cloudy,91.12,103.29,75.98,0.61,1007.4,2.53,2.59,220,1,3,10,248.6,Indonesia
+success,-0.789275,113.921327,1581595200,Humid and Overcast,cloudy,80.88,86.1,74.02,0.8,1009.4,1.75,1.75,339,0.99,0,10,251.2,Indonesia
+success,-0.789275,113.921327,1581613200,Possible Light Rain and Humid,rain,76.99,78.79,75.01,0.94,1009.8,1.85,2.44,22,0.66,0,10,252.6,Indonesia
+success,-0.789275,113.921327,1583049600,Humid and Overcast,cloudy,83.78,92.71,76.24,0.78,1006.4,1.81,2.48,189,1,3,10,251.5,Indonesia
+success,-0.789275,113.921327,1583064000,Humid and Overcast,cloudy,77.75,79.32,73.61,0.87,1008.6,1.96,2.45,295,1,0,10,252.7,Indonesia
+success,-0.789275,113.921327,1583082000,Possible Drizzle and Humid,rain,74.5,76.19,73.45,0.97,1008.6,2.08,3.38,346,1,0,10,256.7,Indonesia
+success,-0.789275,113.921327,1583136000,Humid and Overcast,cloudy,87.81,99.11,76.33,0.69,1005.7,2.79,3.47,132,0.96,3,10,249.3,Indonesia
+success,-0.789275,113.921327,1583150400,Humid and Overcast,cloudy,79.08,82.66,73.73,0.84,1008.5,1.86,2.78,246,1,0,10,250.1,Indonesia
+success,-0.789275,113.921327,1583168400,Possible Light Rain and Humid,rain,75.33,77.25,75.21,1,1008.8,1.47,1.65,175,0.97,0,8.32,253.9,Indonesia
+success,-0.789275,113.921327,1583222400,Humid and Overcast,cloudy,82.45,88.15,73.09,0.73,1008.4,1.33,3.11,214,1,3,10,249.1,Indonesia
+success,-0.789275,113.921327,1583236800,Overcast,cloudy,76.17,77.56,71.89,0.87,1010,1.21,1.69,342,1,0,10,249.1,Indonesia
+success,-0.789275,113.921327,1583254800,Humid and Overcast,cloudy,73.74,75.33,72.6,0.96,1009.7,1.63,2.29,33,1,0,10,248.2,Indonesia
+success,-0.789275,113.921327,1583308800,Humid and Mostly Cloudy,partly-cloudy-day,86.5,95.18,74.47,0.68,1007.8,1.59,1.67,128,0.62,4,10,247.1,Indonesia
+success,-0.789275,113.921327,1583323200,Mostly Cloudy,partly-cloudy-night,77.91,79.2,71.55,0.81,1008.8,1.41,2.21,48,0.66,0,10,252,Indonesia
+success,-0.789275,113.921327,1583341200,Rain and Humid,rain,74.39,76.21,74.24,1,1010,1.75,3.83,342,1,0,7.709,251.3,Indonesia
+success,-0.789275,113.921327,1583395200,Humid and Mostly Cloudy,partly-cloudy-day,82.22,88.09,73.59,0.75,1009.1,2.28,10.34,193,0.86,4,10,249.2,Indonesia
+success,-0.789275,113.921327,1583409600,Mostly Cloudy,partly-cloudy-night,76.3,77.69,71.9,0.86,1011.6,2.34,4.5,258,0.86,0,10,252.2,Indonesia
+success,-0.789275,113.921327,1583427600,Possible Light Rain and Humid,rain,73.29,74.94,72.79,0.98,1011.8,2.28,3.41,286,1,0,10,252.8,Indonesia
+success,-0.789275,113.921327,1583481600,Humid and Overcast,cloudy,82.48,88.87,74.12,0.76,1009,2.45,8.07,106,1,3,10,253.5,Indonesia
+success,-0.789275,113.921327,1583496000,Possible Light Rain and Humid,rain,75.73,77.24,72.66,0.9,1011.6,1.79,3.43,75,1,0,10,254,Indonesia
+success,-0.789275,113.921327,1583514000,Humid and Overcast,cloudy,74.15,75.94,73.98,0.99,1012.1,1.57,2.73,26,1,0,10,253.5,Indonesia
+success,-0.789275,113.921327,1583568000,Humid and Mostly Cloudy,partly-cloudy-day,90.13,101.2,75.39,0.62,1007.8,2.34,5.98,184,0.77,4,10,250.8,Indonesia
+success,-0.789275,113.921327,1583582400,Possible Light Rain,rain,76.03,77.24,70.53,0.83,1010.9,1.94,1.94,271,0.81,0,10,250.8,Indonesia
+success,-0.789275,113.921327,1583600400,Rain and Humid,rain,73.79,75.54,73.61,0.99,1011.7,1.71,4.25,232,1,0,9.69,251.8,Indonesia
+success,-0.789275,113.921327,1583654400,Humid and Overcast,cloudy,85.83,94.87,75.12,0.7,1007.9,2.6,4.7,186,0.94,3,10,249.6,Indonesia
+success,-0.789275,113.921327,1583668800,Humid and Mostly Cloudy,partly-cloudy-night,77.5,78.94,72.59,0.85,1009.1,1.01,1.39,354,0.78,0,10,248.8,Indonesia
+success,-0.789275,113.921327,1583686800,Humid and Overcast,cloudy,74.98,76.79,74.41,0.98,1009.4,1.01,1.35,38,1,0,10,249.9,Indonesia
+success,-0.789275,113.921327,1583740800,Humid and Partly Cloudy,partly-cloudy-day,89.57,101.44,76.19,0.65,1005.7,2.98,7.03,223,0.33,4,10,248.2,Indonesia
+success,-0.789275,113.921327,1583755200,Possible Light Rain and Humid,rain,76.65,78.37,74.35,0.93,1008.6,3.01,8.38,301,0.55,0,10,248,Indonesia
+success,-0.789275,113.921327,1583773200,Rain and Humid,rain,74.54,76.46,74.54,1,1009.9,1.74,6.08,91,1,0,7.434,247.8,Indonesia
+success,-0.789275,113.921327,1583827200,Humid and Overcast,cloudy,92.36,104.33,75.5,0.58,1007,1.92,2.93,139,0.93,3,10,251.7,Indonesia
+success,-0.789275,113.921327,1583841600,Humid and Overcast,cloudy,79.94,83.92,72.68,0.79,1008.7,1.21,1.65,7,0.94,0,10,251.1,Indonesia
+success,-0.789275,113.921327,1583859600,Humid and Overcast,cloudy,76.51,78.13,73.62,0.91,1010.1,1.65,2.08,10,0.99,0,10,253.6,Indonesia
+success,-0.789275,113.921327,1583913600,Mostly Cloudy,partly-cloudy-day,97.12,105.03,70.83,0.43,1005.2,2.34,2.71,139,0.63,4,10,258.1,Indonesia
+success,-0.789275,113.921327,1583928000,Humid and Partly Cloudy,partly-cloudy-night,82.95,88.68,72.75,0.71,1007.5,1.83,2.27,102,0.42,0,10,259.2,Indonesia
+success,-0.789275,113.921327,1583946000,Humid,clear-night,76.23,77.88,73.75,0.92,1009.8,2.06,2.71,4,0.2,0,10,260,Indonesia
+success,-0.789275,113.921327,1584000000,Humid and Partly Cloudy,partly-cloudy-day,87.01,95.95,74.54,0.67,1009.5,2.6,4.99,93,0.45,4,10,260.2,Indonesia
+success,-0.789275,113.921327,1584014400,Humid and Mostly Cloudy,partly-cloudy-night,77.49,79.01,73.17,0.87,1010.9,1.25,1.5,353,0.6,0,10,261.6,Indonesia
+success,-0.789275,113.921327,1584032400,Possible Light Rain and Humid,rain,74.6,76.5,74.6,1,1011.7,1.66,2.42,26,0.29,0,10,261.6,Indonesia
+success,-0.789275,113.921327,1584086400,Humid and Partly Cloudy,partly-cloudy-day,89.3,100.37,75.63,0.64,1008.2,2.02,3.29,97,0.36,4,10,259.7,Indonesia
+success,-0.789275,113.921327,1584100800,Humid and Partly Cloudy,partly-cloudy-night,79.06,82.66,73.91,0.84,1011.2,1.62,6.51,89,0.56,0,10,259.8,Indonesia
+success,-0.789275,113.921327,1584118800,Rain and Humid,rain,75.37,77.22,74.79,0.98,1011.3,1.61,1.62,97,0.93,0,4.917,258,Indonesia
+success,-0.789275,113.921327,1585728000,Humid and Partly Cloudy,partly-cloudy-day,92.33,102.09,73.72,0.55,1006.7,2.94,5.08,202,0.35,4,10,252.3,Indonesia
+success,-0.789275,113.921327,1585742400,Humid,clear-night,79.58,83.42,73.11,0.81,1009.1,1.5,1.87,33,0.23,0,10,252.1,Indonesia
+success,-0.789275,113.921327,1585760400,Humid and Overcast,cloudy,76.69,78.45,74.64,0.93,1009.4,1.83,2.03,45,0.98,0,10,254,Indonesia
+success,-0.789275,113.921327,1585814400,Humid and Mostly Cloudy,partly-cloudy-day,91.73,101.43,73.82,0.56,1005.9,3.33,5.01,218,0.65,3,10,249.2,Indonesia
+success,-0.789275,113.921327,1585828800,Possible Light Rain and Humid,rain,78.58,81.65,73.78,0.85,1008.8,2.5,2.89,244,0.54,0,10,248,Indonesia
+success,-0.789275,113.921327,1585846800,Possible Light Rain and Humid,rain,77.26,79.15,75.76,0.95,1008.8,1.43,1.99,334,0.45,0,10,251.1,Indonesia
+success,-0.789275,113.921327,1585900800,Humid and Mostly Cloudy,partly-cloudy-day,88.66,103.24,78.46,0.72,1007.1,2.34,4.34,134,0.61,3,10,247.2,Indonesia
+success,-0.789275,113.921327,1585915200,Humid and Mostly Cloudy,partly-cloudy-night,78.89,82.37,74.23,0.86,1009.3,1.76,2.03,346,0.64,0,10,246.1,Indonesia
+success,-0.789275,113.921327,1585933200,Possible Light Rain and Humid,rain,75.58,77.44,74.96,0.98,1010.1,1.52,1.97,331,0.58,0,10,247.8,Indonesia
+success,-0.789275,113.921327,1585987200,Humid and Overcast,cloudy,87.4,96.78,74.81,0.66,1007.4,2.96,6.29,86,0.99,3,10,251,Indonesia
+success,-0.789275,113.921327,1586001600,Overcast,cloudy,78.3,79.6,71.69,0.8,1010.5,1.53,2.2,348,0.97,0,10,251.8,Indonesia
+success,-0.789275,113.921327,1586019600,Humid and Overcast,cloudy,75.07,76.59,72.5,0.92,1010.2,1.9,2.62,336,0.9,0,10,254.1,Indonesia
+success,-0.789275,113.921327,1586073600,Humid and Mostly Cloudy,partly-cloudy-day,85.79,93.41,73.66,0.67,1007.4,2.48,3.86,107,0.73,3,10,255.9,Indonesia
+success,-0.789275,113.921327,1586088000,Humid and Mostly Cloudy,partly-cloudy-night,77.91,79.27,72.06,0.82,1009.4,1.86,3.64,352,0.66,0,10,256.2,Indonesia
+success,-0.789275,113.921327,1586106000,Rain and Humid,rain,74.74,76.46,73.71,0.97,1010.5,1.5,2.18,332,0.92,0,7.525,259.3,Indonesia
+success,-0.789275,113.921327,1586160000,Humid and Overcast,cloudy,83.13,91.14,75.71,0.78,1007.1,1.84,2.27,155,0.98,3,10,253.4,Indonesia
+success,-0.789275,113.921327,1586174400,Possible Light Rain and Humid,rain,77.36,78.88,73.12,0.87,1009.5,1.77,2.21,241,0.99,0,10,251.7,Indonesia
+success,-0.789275,113.921327,1586192400,Overcast,cloudy,74.81,76.24,71.83,0.9,1010.4,2.46,2.97,281,0.98,0,10,255.1,Indonesia
+success,-0.789275,113.921327,1586246400,Rain and Humid,rain,86.26,94.68,74.31,0.68,1007,2.82,4.42,252,0.96,3,10,252.3,Indonesia
+success,-0.789275,113.921327,1586260800,Possible Light Rain,rain,77.22,78.49,71.21,0.82,1009.4,1.41,3.73,317,0.84,0,10,251.6,Indonesia
+success,-0.789275,113.921327,1586278800,Possible Light Rain and Humid,rain,75.13,76.87,74.02,0.96,1010.4,1.66,8.18,287,1,0,10,256.5,Indonesia
+success,-0.789275,113.921327,1586332800,Possible Light Rain and Humid,rain,87.6,96.88,74.64,0.66,1007.8,2.38,5.53,84,0.35,4,10,250.5,Indonesia
+success,-0.789275,113.921327,1586347200,Possible Drizzle and Humid,rain,77.79,79.19,72.3,0.83,1010.4,1.99,2.59,81,0.49,0,8.96,249.2,Indonesia
+success,-0.789275,113.921327,1586365200,Possible Drizzle and Humid,rain,74.74,76.48,73.86,0.97,1012,2.33,3.4,284,0.96,0,10,254.5,Indonesia
+success,-0.789275,113.921327,1586419200,Humid and Partly Cloudy,partly-cloudy-day,90.65,100.15,73.93,0.58,1008.7,3.05,3.14,203,0.5,3,10,254.9,Indonesia
+success,-0.789275,113.921327,1586433600,Clear,clear-night,79.52,82.94,71.77,0.77,1010.8,1.65,1.72,222,0.19,0,10,253.6,Indonesia
+success,-0.789275,113.921327,1586451600,Humid and Partly Cloudy,partly-cloudy-night,75.6,77.37,74.34,0.96,1011,1.4,2.59,24,0.34,0,10,256.8,Indonesia
+success,-0.789275,113.921327,1586505600,Humid and Mostly Cloudy,partly-cloudy-day,87.93,98.55,75.72,0.67,1007,3.26,3.41,269,0.83,3,10,250.7,Indonesia
+success,-0.789275,113.921327,1586520000,Possible Light Rain,rain,77.88,79.14,71.3,0.8,1010.2,1.76,2.79,229,0.94,0,10,254.7,Indonesia
+success,-0.789275,113.921327,1586538000,Rain and Humid,rain,75.71,77.51,74.59,0.96,1011,1.43,1.97,116,1,0,10,258.8,Indonesia
+success,-0.789275,113.921327,1586592000,Possible Light Rain and Humid,rain,76.52,78.19,73.95,0.92,1009.6,2.58,10.39,81,1,3,10,249.8,Indonesia
+success,-0.789275,113.921327,1586606400,Possible Drizzle and Humid,rain,74.79,76.28,72.23,0.92,1010.5,1.35,2.79,93,0.99,0,10,252.1,Indonesia
+success,-0.789275,113.921327,1586624400,Possible Drizzle and Humid,rain,74.02,75.77,73.7,0.99,1011.2,2.15,3.56,258,0.86,0,10,259.7,Indonesia
+success,-0.789275,113.921327,1586678400,Possible Drizzle and Humid,rain,86.48,99.41,78.2,0.76,1006.4,2.22,6.35,209,0.79,3,10,259.3,Indonesia
+success,-0.789275,113.921327,1586692800,Humid and Overcast,cloudy,77.53,79.1,73.6,0.88,1008.6,1.65,1.76,341,0.93,0,10,260.2,Indonesia
+success,-0.789275,113.921327,1586710800,Possible Light Rain and Humid,rain,74.37,76.18,74.23,1,1009.9,0.91,1.22,21,0.1,0,10,262.4,Indonesia
+success,-0.789275,113.921327,1586764800,Humid and Overcast,cloudy,87.16,98.43,76.56,0.71,1006.2,2.28,3.32,52,0.91,3,10,261.4,Indonesia
+success,-0.789275,113.921327,1586779200,Humid and Overcast,cloudy,78.61,81.7,73.6,0.85,1009,1.79,5.42,128,1,0,6.179,263.1,Indonesia
+success,-0.789275,113.921327,1586797200,Possible Light Rain and Humid,rain,75.75,77.7,75.58,0.99,1010.7,2.12,3.32,202,1,0,10,268.1,Indonesia
+success,-0.789275,113.921327,1588320000,Possible Light Rain and Humid,rain,85.02,98.22,79.26,0.83,1005.4,2.1,3.9,359,0.79,3,9.657,247.3,Indonesia
+success,-0.789275,113.921327,1588334400,Possible Drizzle and Humid,rain,78.26,79.98,74.83,0.89,1008.3,1.82,2.35,20,0.77,0,10,245.8,Indonesia
+success,-0.789275,113.921327,1588352400,Light Rain and Humid,rain,75.75,77.51,74.31,0.95,1008.7,1.99,2.1,310,0.89,0,7.419,248.6,Indonesia
+success,-0.789275,113.921327,1588406400,Light Rain and Humid,rain,78.8,82.24,74.51,0.87,1007.2,2.5,5.6,213,0.98,3,10,245.5,Indonesia
+success,-0.789275,113.921327,1588420800,Possible Light Rain,rain,76.04,77.31,70.97,0.84,1009.9,2.29,4.15,246,1,0,10,244,Indonesia
+success,-0.789275,113.921327,1588438800,Possible Drizzle and Humid,rain,74.34,76.09,73.8,0.98,1010.4,1.66,19.11,273,1,0,10,246.5,Indonesia
+success,-0.789275,113.921327,1588492800,Humid and Mostly Cloudy,partly-cloudy-day,84.32,92.38,74.91,0.73,1007.4,2.43,3.17,175,0.78,3,10,247.2,Indonesia
+success,-0.789275,113.921327,1588507200,Humid and Partly Cloudy,partly-cloudy-night,79.21,82.6,72.47,0.8,1010.1,0.83,0.93,140,0.59,0,10,245.7,Indonesia
+success,-0.789275,113.921327,1588525200,Humid and Mostly Cloudy,partly-cloudy-night,75.07,76.76,73.66,0.95,1010.5,1.47,1.59,319,0.73,0,10,247.7,Indonesia
+success,-0.789275,113.921327,1588579200,Humid and Partly Cloudy,partly-cloudy-day,91.38,101.51,74.28,0.58,1007.6,2.08,4.55,175,0.52,3,10,247.9,Indonesia
+success,-0.789275,113.921327,1588593600,Humid and Mostly Cloudy,partly-cloudy-night,79.79,84.15,74.13,0.83,1008.7,1.38,2.41,319,0.66,0,10,244,Indonesia
+success,-0.789275,113.921327,1588611600,Humid and Overcast,cloudy,76.17,77.77,73.42,0.91,1010.5,1.64,1.79,321,1,0,10,246.5,Indonesia
+success,-0.789275,113.921327,1588665600,Humid and Partly Cloudy,partly-cloudy-day,93.02,101.79,72.66,0.52,1005.9,3.62,5.66,216,0.48,3,10,246.2,Indonesia
+success,-0.789275,113.921327,1588680000,Possible Drizzle and Humid,rain,79.11,82.56,73.08,0.82,1008.9,1.9,2.27,357,0.51,0,8.061,246,Indonesia
+success,-0.789275,113.921327,1588698000,Possible Light Rain and Humid,rain,76.29,78.22,75.67,0.98,1010,1.55,1.99,313,0.8,0,10,245.5,Indonesia
+success,-0.789275,113.921327,1588752000,Humid and Mostly Cloudy,partly-cloudy-day,86.62,96.95,75.99,0.71,1006.4,2.35,3.63,152,0.75,3,10,241.2,Indonesia
+success,-0.789275,113.921327,1588766400,Humid and Mostly Cloudy,partly-cloudy-night,78.88,82.26,73.76,0.84,1008.7,1.78,1.78,353,0.77,0,10,239.9,Indonesia
+success,-0.789275,113.921327,1588784400,Humid and Overcast,cloudy,75.74,77.48,74.19,0.95,1009.3,1.61,2.25,327,0.89,0,10,245.4,Indonesia
+success,-0.789275,113.921327,1588838400,Humid and Partly Cloudy,partly-cloudy-day,91.76,100.9,73.31,0.55,1006.3,2.54,5.67,114,0.5,3,10,244.2,Indonesia
+success,-0.789275,113.921327,1588852800,Humid and Mostly Cloudy,partly-cloudy-night,81.79,87.24,73.31,0.76,1008,1.82,2.14,141,0.77,0,10,243.2,Indonesia
+success,-0.789275,113.921327,1588870800,Humid and Overcast,cloudy,77.48,79.39,75.92,0.95,1008.3,1.61,1.76,97,1,0,10,246.4,Indonesia
+success,-0.789275,113.921327,1588924800,Humid and Partly Cloudy,partly-cloudy-day,93.87,105.96,75.22,0.55,1004.4,1.91,4.06,123,0.53,3,10,246,Indonesia
+success,-0.789275,113.921327,1588939200,Humid,clear-night,78.68,82.06,74.88,0.88,1007.7,1.25,2.57,304,0.19,0,10,245.8,Indonesia
+success,-0.789275,113.921327,1588957200,Possible Drizzle and Humid,rain,76.15,78.1,75.76,0.99,1008.5,1.55,2.1,312,0.66,0,10,247.5,Indonesia
+success,-0.789275,113.921327,1589011200,Possible Light Rain and Humid,rain,82.82,92.6,78.01,0.85,1007.3,1.99,2.45,197,1,3,10,242.9,Indonesia
+success,-0.789275,113.921327,1589025600,Possible Light Rain and Humid,rain,77.09,78.85,74.79,0.93,1009.5,1.34,3.29,261,1,0,10,245.1,Indonesia
+success,-0.789275,113.921327,1589043600,Rain and Humid,rain,74.84,76.7,74.64,0.99,1010.5,1.6,3.21,152,1,0,10,249.4,Indonesia
+success,-0.789275,113.921327,1589097600,Humid and Mostly Cloudy,partly-cloudy-day,86.9,97.52,76.11,0.7,1006.9,3.1,6.67,59,0.79,3,10,247.2,Indonesia
+success,-0.789275,113.921327,1589112000,Humid and Mostly Cloudy,partly-cloudy-night,78.54,81.55,73.58,0.85,1009,1.86,3.07,289,0.77,0,10,246.5,Indonesia
+success,-0.789275,113.921327,1589130000,Humid and Partly Cloudy,partly-cloudy-night,75.37,77.1,74.04,0.96,1010.3,1.46,1.83,320,0.45,0,10,248.2,Indonesia
+success,-0.789275,113.921327,1589184000,Humid and Partly Cloudy,partly-cloudy-day,88.17,99.68,76.37,0.68,1006.8,2.66,2.92,178,0.48,3,10,246.4,Indonesia
+success,-0.789275,113.921327,1589198400,Humid and Partly Cloudy,partly-cloudy-night,79.54,83.38,73.16,0.81,1008.4,1.94,2,292,0.58,0,10,244.4,Indonesia
+success,-0.789275,113.921327,1589216400,Humid and Mostly Cloudy,partly-cloudy-night,75.93,77.6,73.77,0.93,1008.7,1.57,2.08,220,0.85,0,10,246.2,Indonesia
+success,-0.789275,113.921327,1589270400,Humid and Partly Cloudy,partly-cloudy-day,88.74,100.47,76.34,0.67,1007.2,1.77,3.45,169,0.48,3,10,243.8,Indonesia
+success,-0.789275,113.921327,1589284800,Humid and Partly Cloudy,partly-cloudy-night,79.45,83.57,74.37,0.85,1008.8,0.96,1.87,287,0.51,0,10,243.9,Indonesia
+success,-0.789275,113.921327,1589302800,Humid and Mostly Cloudy,partly-cloudy-night,75.95,77.82,75.13,0.97,1009.4,1.76,2.11,327,0.79,0,10,248.4,Indonesia
+success,-0.789275,113.921327,1589356800,Possible Light Rain and Humid,rain,87.33,96.6,74.74,0.66,1006.1,2.61,3.07,204,1,2,10,249.9,Indonesia
+success,-0.789275,113.921327,1589371200,Possible Light Rain and Humid,rain,78.93,82.35,73.69,0.84,1008.5,1.92,2.14,225,1,0,10,250,Indonesia
+success,-0.789275,113.921327,1589389200,Possible Light Rain and Humid,rain,75.15,77.23,75.15,1,1009.1,1.44,2.67,198,1,0,10,247.5,Indonesia
+success,-0.789275,113.921327,1590998400,Humid and Partly Cloudy,partly-cloudy-day,85.94,95.49,75.56,0.71,1008.5,1.7,3.72,227,0.44,3,10,245.1,Indonesia
+success,-0.789275,113.921327,1591012800,Possible Light Rain and Humid,rain,77.22,78.7,72.82,0.86,1010.4,2.12,2.96,265,0.37,0,10,247.1,Indonesia
+success,-0.789275,113.921327,1591030800,Possible Light Rain and Humid,rain,74.13,75.78,73.11,0.97,1011.5,1.84,9.26,239,1,0,10,249.4,Indonesia
+success,-0.789275,113.921327,1591084800,Humid and Mostly Cloudy,partly-cloudy-day,85.21,93.09,74.22,0.7,1008.5,2.51,6.77,187,0.61,3,10,246.7,Indonesia
+success,-0.789275,113.921327,1591099200,Mostly Cloudy,partly-cloudy-night,77.55,78.88,71.76,0.82,1010.6,1.19,2.32,206,0.68,0,10,246.3,Indonesia
+success,-0.789275,113.921327,1591117200,Humid and Overcast,cloudy,74.34,75.9,72.54,0.94,1011,1.22,1.49,254,0.92,0,10,249.9,Indonesia
+success,-0.789275,113.921327,1591171200,Humid and Mostly Cloudy,partly-cloudy-day,89.28,100.26,75.57,0.64,1006.7,2.01,3.77,155,0.83,3,10,246.5,Indonesia
+success,-0.789275,113.921327,1591185600,Humid and Partly Cloudy,partly-cloudy-night,77.76,79.2,72.67,0.84,1009.3,1.36,2.3,350,0.56,0,10,248.3,Indonesia
+success,-0.789275,113.921327,1591203600,Possible Drizzle and Humid,rain,75.19,76.96,74.26,0.97,1010.2,0.95,1.44,280,0.86,0,10,251.7,Indonesia
+success,-0.789275,113.921327,1591257600,Humid and Overcast,cloudy,87.74,98.95,76.27,0.69,1006.5,2.62,5.95,110,0.94,2,10,251.4,Indonesia
+success,-0.789275,113.921327,1591272000,Humid and Mostly Cloudy,partly-cloudy-night,78.02,79.5,73,0.85,1009,1.63,2,50,0.71,0,10,250.3,Indonesia
+success,-0.789275,113.921327,1591290000,Humid and Partly Cloudy,partly-cloudy-night,75.59,77.42,74.75,0.97,1010.1,1.44,1.44,166,0.37,0,10,252.9,Indonesia
+success,-0.789275,113.921327,1591344000,Humid and Overcast,cloudy,84.75,95.09,76.98,0.78,1007.1,2.51,4.51,188,0.97,2,9.833,246.7,Indonesia
+success,-0.789275,113.921327,1591358400,Humid and Overcast,cloudy,77.02,78.57,73.3,0.88,1009.7,1.76,2.26,276,1,0,10,250.2,Indonesia
+success,-0.789275,113.921327,1591376400,Possible Drizzle and Humid,rain,74.38,76.13,73.81,0.98,1010,1.48,2.15,239,1,0,10,253.4,Indonesia
+success,-0.789275,113.921327,1591430400,Possible Light Rain and Humid,rain,81.21,88.63,76.95,0.87,1007.7,2.99,6.93,224,0.99,2,8.528,247.4,Indonesia
+success,-0.789275,113.921327,1591444800,Possible Light Rain and Humid,rain,75.4,76.84,72.05,0.89,1010.4,2.07,8.53,277,1,0,10,251.5,Indonesia
+success,-0.789275,113.921327,1591462800,Possible Light Rain and Humid,rain,73.62,75.28,72.96,0.98,1011.5,2.36,11.05,22,1,0,6.494,251.7,Indonesia
+success,-0.789275,113.921327,1591516800,Humid and Mostly Cloudy,partly-cloudy-day,85.52,92.67,73.24,0.67,1006.3,2.42,4.13,112,0.81,3,10,248.1,Indonesia
+success,-0.789275,113.921327,1591531200,Mostly Cloudy,partly-cloudy-night,77.9,79.19,71.48,0.81,1008.7,1.09,1.79,21,0.67,0,10,250.5,Indonesia
+success,-0.789275,113.921327,1591549200,Humid and Mostly Cloudy,partly-cloudy-night,74.72,76.18,72.01,0.91,1009.6,1.71,2,332,0.61,0,10,250,Indonesia
+success,-0.789275,113.921327,1591603200,Humid and Mostly Cloudy,partly-cloudy-day,89.41,98.99,74.34,0.61,1007.5,1.72,2.37,65,0.66,3,10,248.3,Indonesia
+success,-0.789275,113.921327,1591617600,Humid and Partly Cloudy,partly-cloudy-night,78.44,79.89,72.88,0.83,1010,1.15,1.15,29,0.51,0,10,255.7,Indonesia
+success,-0.789275,113.921327,1591635600,Possible Light Rain and Humid,rain,75.79,77.49,73.98,0.94,1010.1,1.63,1.99,309,0.77,0,10,253.1,Indonesia
+success,-0.789275,113.921327,1591689600,Humid and Overcast,cloudy,84.23,91.54,74.07,0.72,1008.7,2.66,3.16,112,0.99,2,10,252.2,Indonesia
+success,-0.789275,113.921327,1591704000,Partly Cloudy,partly-cloudy-night,76.26,77.61,71.66,0.86,1009.6,1.55,2.03,28,0.55,0,10,249.4,Indonesia
+success,-0.789275,113.921327,1591722000,Possible Light Rain and Humid,rain,72.85,74.45,72.34,0.98,1011.5,2.14,2.14,170,1,0,10,247.3,Indonesia
+success,-0.789275,113.921327,1591776000,Humid and Overcast,cloudy,84.37,92.16,74.57,0.73,1006.9,2.03,5.95,133,0.96,2,10,251.5,Indonesia
+success,-0.789275,113.921327,1591790400,Mostly Cloudy,partly-cloudy-night,76.56,77.93,71.84,0.85,1009.4,1.62,2.94,12,0.77,0,10,251.7,Indonesia
+success,-0.789275,113.921327,1591808400,Humid and Overcast,cloudy,74.09,75.6,72.19,0.94,1010.1,1.84,2.1,344,0.93,0,10,252.1,Indonesia
+success,-0.789275,113.921327,1591862400,Humid and Overcast,cloudy,88.1,97.3,74.4,0.64,1006.3,2.97,3.82,166,0.93,2,10,248.4,Indonesia
+success,-0.789275,113.921327,1591876800,Mostly Cloudy,partly-cloudy-night,78.16,79.43,71.4,0.8,1008,1.11,2.13,20,0.65,0,10,250.8,Indonesia
+success,-0.789275,113.921327,1591894800,Mostly Cloudy,partly-cloudy-night,74.27,75.67,71.48,0.91,1009.2,1.88,2.21,327,0.65,0,10,251.2,Indonesia
+success,-0.789275,113.921327,1591948800,Humid and Mostly Cloudy,partly-cloudy-day,89.8,100.95,75.55,0.63,1004.9,1.98,3.3,209,0.74,3,10,247.5,Indonesia
+success,-0.789275,113.921327,1591963200,Humid and Mostly Cloudy,partly-cloudy-night,78.96,82.24,72.89,0.82,1006.1,0.98,1.4,348,0.81,0,10,250,Indonesia
+success,-0.789275,113.921327,1591981200,Humid and Mostly Cloudy,partly-cloudy-night,74.68,76.39,73.66,0.97,1007.7,1.33,1.84,188,0.76,0,10,249.5,Indonesia
+success,-0.789275,113.921327,1592035200,Humid and Overcast,cloudy,86.64,97.78,76.67,0.72,1005.8,2.64,4.27,151,0.89,2,10,248,Indonesia
+success,-0.789275,113.921327,1592049600,Humid and Overcast,cloudy,77.54,79.11,73.58,0.88,1007.8,1.76,2.34,23,0.91,0,10,248.5,Indonesia
+success,-0.789275,113.921327,1592067600,Humid and Mostly Cloudy,partly-cloudy-night,75.21,76.97,74.14,0.96,1009.6,2.13,2.79,24,0.84,0,10,251.8,Indonesia
+success,-0.789275,113.921327,1593590400,Humid and Partly Cloudy,partly-cloudy-day,88.52,97.98,74.5,0.63,1005.4,3.13,7.45,115,0.49,3,10,254.2,Indonesia
+success,-0.789275,113.921327,1593604800,Possible Light Rain and Humid,rain,77.46,79,73.33,0.87,1008.4,1.21,1.23,298,0.58,0,10,256.4,Indonesia
+success,-0.789275,113.921327,1593622800,Humid and Mostly Cloudy,partly-cloudy-night,74.11,75.76,73.07,0.97,1009.5,1.31,1.51,320,0.6,0,10,256.2,Indonesia
+success,-0.789275,113.921327,1593676800,Possible Light Rain and Humid,rain,81.47,89.34,77.2,0.87,1006.5,2.69,4.66,163,0.73,3,9.781,252.5,Indonesia
+success,-0.789275,113.921327,1593691200,Possible Light Rain,rain,74.85,76.15,70.89,0.88,1009.9,1.68,2.47,251,0.76,0,10,252.8,Indonesia
+success,-0.789275,113.921327,1593709200,Possible Light Rain,rain,72.61,74.03,71.1,0.95,1010.6,1.41,3.27,282,0.68,0,10,253.8,Indonesia
+success,-0.789275,113.921327,1593763200,Humid and Mostly Cloudy,partly-cloudy-day,85.26,91.75,72.58,0.66,1007.5,3.14,5.09,136,0.79,3,10,253.5,Indonesia
+success,-0.789275,113.921327,1593777600,Mostly Cloudy,partly-cloudy-night,77.34,78.57,70.92,0.81,1009.5,1.02,1.28,94,0.82,0,10,256,Indonesia
+success,-0.789275,113.921327,1593795600,Humid and Overcast,cloudy,74,75.55,72.39,0.95,1010.5,1.56,1.62,9,1,0,10,255.4,Indonesia
+success,-0.789275,113.921327,1593849600,Humid and Partly Cloudy,partly-cloudy-day,85.35,93.51,74.44,0.7,1006.8,2.25,2.8,32,0.44,3,10,254.4,Indonesia
+success,-0.789275,113.921327,1593864000,Possible Light Rain,rain,77.11,78.47,71.93,0.84,1008.7,1.72,2.09,301,0.36,0,10,253,Indonesia
+success,-0.789275,113.921327,1593882000,Possible Light Rain and Humid,rain,73.58,75.27,73.09,0.98,1009.6,0.94,0.98,114,0.71,0,10,254.4,Indonesia
+success,-0.789275,113.921327,1593936000,Possible Light Rain and Humid,rain,78.96,82.78,75.37,0.89,1006.8,1.66,3.08,1,0.56,3,10,252.7,Indonesia
+success,-0.789275,113.921327,1593950400,Possible Light Rain,rain,74.06,75.37,70.79,0.9,1007.8,0.82,2.03,191,0.79,0,10,253.8,Indonesia
+success,-0.789275,113.921327,1593968400,Possible Light Rain,rain,71.39,72.86,70.91,0.98,1009,1.75,9.97,12,1,0,8.199,256.4,Indonesia
+success,-0.789275,113.921327,1594022400,Humid and Partly Cloudy,partly-cloudy-day,87.64,96.05,73.79,0.64,1005.8,2.3,4.85,98,0.32,3,10,256.6,Indonesia
+success,-0.789275,113.921327,1594036800,Rain and Humid,rain,75.6,77.1,72.56,0.9,1008.8,2.07,2.41,159,0.33,0,3.322,258.7,Indonesia
+success,-0.789275,113.921327,1594054800,Possible Drizzle and Humid,rain,73.68,75.36,73.13,0.98,1009.6,1.11,1.63,0,0.44,0,10,260.4,Indonesia
+success,-0.789275,113.921327,1594108800,Humid and Partly Cloudy,partly-cloudy-day,87.49,95.43,73.37,0.63,1006,1.49,4.76,194,0.53,3,10,258,Indonesia
+success,-0.789275,113.921327,1594123200,Mostly Cloudy,partly-cloudy-night,78.8,79.95,70.57,0.76,1008.2,1.98,2.41,108,0.78,0,10,260.4,Indonesia
+success,-0.789275,113.921327,1594141200,Humid and Overcast,cloudy,73.99,75.51,72.16,0.94,1009.8,1.71,1.73,55,0.97,0,10,257.2,Indonesia
+success,-0.789275,113.921327,1594195200,Humid and Overcast,cloudy,84.33,93.74,76.35,0.77,1005.2,1.76,2.99,284,0.91,3,10,253.5,Indonesia
+success,-0.789275,113.921327,1594209600,Possible Drizzle,rain,76.62,78,71.95,0.86,1007,1.41,1.75,300,0.98,0,10,257.1,Indonesia
+success,-0.789275,113.921327,1594227600,Possible Light Rain and Humid,rain,73.31,74.98,72.95,0.99,1008.7,1.61,2.29,328,0.91,0,10,256.1,Indonesia
+success,-0.789275,113.921327,1594281600,Possible Light Rain and Humid,rain,80.95,86.7,74.94,0.82,1005.8,2.16,2.16,147,1,3,10,251.9,Indonesia
+success,-0.789275,113.921327,1594296000,Possible Light Rain and Humid,rain,74.65,76.15,72.24,0.92,1008.3,2,5.07,218,1,0,10,252.6,Indonesia
+success,-0.789275,113.921327,1594314000,Possible Light Rain and Humid,rain,72.39,74.01,72.26,1,1009.6,1.81,5.07,269,1,0,10,253.8,Indonesia
+success,-0.789275,113.921327,1594368000,Humid and Mostly Cloudy,partly-cloudy-day,82.78,88.67,73.15,0.73,1006.8,2.65,3.56,170,0.67,3,10,251.2,Indonesia
+success,-0.789275,113.921327,1594382400,Possible Light Rain,rain,75.14,76.57,71.95,0.9,1009.4,1.74,6.4,180,0.72,0,10,254.1,Indonesia
+success,-0.789275,113.921327,1594400400,Possible Light Rain and Humid,rain,73.36,75.06,73.11,0.99,1010.3,1.65,6.72,307,1,0,10,256.2,Indonesia
+success,-0.789275,113.921327,1594454400,Humid and Mostly Cloudy,partly-cloudy-day,84.29,92.61,75.22,0.74,1006.6,2.99,5.26,129,0.59,3,10,253.5,Indonesia
+success,-0.789275,113.921327,1594468800,Mostly Cloudy,partly-cloudy-night,76.56,77.94,71.91,0.86,1009.1,1.3,1.46,139,0.7,0,10,254.3,Indonesia
+success,-0.789275,113.921327,1594486800,Humid and Mostly Cloudy,partly-cloudy-night,73.73,75.3,72.43,0.96,1009.8,1.36,2.02,36,0.71,0,10,255.5,Indonesia
+success,-0.789275,113.921327,1594540800,Humid and Overcast,cloudy,78.76,81.86,72.88,0.82,1007.5,2.52,8.45,83,0.93,3,10,254.5,Indonesia
+success,-0.789275,113.921327,1594555200,Overcast,cloudy,74.81,76.04,70.42,0.86,1008.9,1.28,1.88,116,0.97,0,10,254.6,Indonesia
+success,-0.789275,113.921327,1594573200,Humid and Overcast,cloudy,73.47,75.12,72.85,0.98,1010,0.98,1.46,46,1,0,10,255,Indonesia
+success,-0.789275,113.921327,1594627200,Humid and Overcast,cloudy,86.74,94.69,73.64,0.65,1005.5,2.08,3.59,115,0.97,3,10,256.4,Indonesia
+success,-0.789275,113.921327,1594641600,Overcast,cloudy,78.39,79.67,71.55,0.8,1008.5,1.59,2.54,65,0.99,0,10,254.9,Indonesia
+success,-0.789275,113.921327,1594659600,Possible Light Rain and Humid,rain,75.22,77.02,74.41,0.97,1008.3,1.11,1.79,86,1,0,10,254.5,Indonesia
+success,-0.789275,113.921327,1596268800,Humid and Overcast,cloudy,79.94,83.72,72.12,0.77,1007.4,2.24,8.15,149,0.95,3,10,254.3,Indonesia
+success,-0.789275,113.921327,1596283200,Overcast,cloudy,75.33,76.47,69.79,0.83,1010.2,0.97,3.14,95,0.95,0,10,257.8,Indonesia
+success,-0.789275,113.921327,1596301200,Mostly Cloudy,partly-cloudy-night,73.1,74.44,70.71,0.92,1010.8,1.45,2.31,1,0.59,0,10,258.3,Indonesia
+success,-0.789275,113.921327,1596355200,Possible Light Rain and Humid,rain,78.53,81.81,75.51,0.9,1006.8,2.12,3.89,110,0.91,3,10,258.4,Indonesia
+success,-0.789275,113.921327,1596369600,Humid and Overcast,cloudy,74.83,76.37,72.56,0.93,1008.3,1.19,1.36,176,0.99,0,10,258.8,Indonesia
+success,-0.789275,113.921327,1596387600,Humid and Overcast,cloudy,75.05,76.84,74.27,0.97,1009,1.22,1.86,107,0.99,0,10,260.7,Indonesia
+success,-0.789275,113.921327,1596441600,Humid and Overcast,cloudy,77.84,79.24,72.38,0.83,1007.2,1.78,4.56,180,0.99,3,10,255.9,Indonesia
+success,-0.789275,113.921327,1596456000,Overcast,cloudy,74.31,75.54,70.3,0.87,1008.6,1.35,1.42,40,0.93,0,10,257.3,Indonesia
+success,-0.789275,113.921327,1596474000,Overcast,cloudy,72.78,74.17,70.88,0.94,1009.4,1.42,1.52,44,1,0,10,260.1,Indonesia
+success,-0.789275,113.921327,1596528000,Humid and Mostly Cloudy,partly-cloudy-day,84,90.47,73.16,0.7,1006.6,1.93,2.01,128,0.84,3,10,256.5,Indonesia
+success,-0.789275,113.921327,1596542400,Overcast,cloudy,76.16,77.44,71.1,0.84,1007.6,1.1,1.86,262,0.89,0,10,257.7,Indonesia
+success,-0.789275,113.921327,1596560400,Overcast,cloudy,74.41,75.84,71.71,0.91,1008.9,2.41,2.58,26,0.99,0,10,258.6,Indonesia
+success,-0.789275,113.921327,1596614400,Possible Light Rain and Humid,rain,83.19,92.08,76.68,0.81,1006.3,3.21,7.57,337,0.78,3,7.949,258.7,Indonesia
+success,-0.789275,113.921327,1596628800,Mostly Cloudy,partly-cloudy-night,74.66,75.92,70.6,0.87,1010.3,1.7,2.08,314,0.8,0,10,259.8,Indonesia
+success,-0.789275,113.921327,1596646800,Possible Light Rain,rain,72.31,73.81,71.48,0.97,1010.6,1.42,7.1,178,0.97,0,10,263.3,Indonesia
+success,-0.789275,113.921327,1596700800,Humid and Mostly Cloudy,partly-cloudy-day,86.04,92.83,72.63,0.64,1007.2,1.12,1.76,198,0.86,3,10,258.6,Indonesia
+success,-0.789275,113.921327,1596715200,Partly Cloudy,partly-cloudy-night,76.88,78.02,70.2,0.8,1009.6,1.19,1.51,344,0.43,0,10,258.2,Indonesia
+success,-0.789275,113.921327,1596733200,Mostly Cloudy,partly-cloudy-night,73.23,74.59,70.85,0.92,1009.6,1.78,1.96,327,0.83,0,10,262.8,Indonesia
+success,-0.789275,113.921327,1596787200,Humid and Mostly Cloudy,partly-cloudy-day,85.35,92.91,73.79,0.68,1007.5,1.59,3.78,303,0.73,3,10,264.1,Indonesia
+success,-0.789275,113.921327,1596801600,Mostly Cloudy,partly-cloudy-night,77.13,78.32,70.6,0.8,1008.8,1.5,1.5,302,0.76,0,10,266.3,Indonesia
+success,-0.789275,113.921327,1596819600,Clear,clear-night,72.68,74.19,71.66,0.97,1009.7,1.72,1.89,328,0.13,0,10,264.5,Indonesia
+success,-0.789275,113.921327,1596873600,Humid and Overcast,cloudy,91.07,100.32,73.59,0.57,1006,1.73,2.02,196,0.94,3,10,261.1,Indonesia
+success,-0.789275,113.921327,1596888000,Humid and Overcast,cloudy,78.29,79.68,72.41,0.82,1008.3,1.4,1.61,297,1,0,10,261.3,Indonesia
+success,-0.789275,113.921327,1596906000,Humid and Mostly Cloudy,partly-cloudy-night,75.2,76.81,73.19,0.93,1009.4,1.58,2.14,263,0.76,0,10,263,Indonesia
+success,-0.789275,113.921327,1596960000,Humid and Mostly Cloudy,partly-cloudy-day,85.74,95.48,75.84,0.72,1006.8,2.29,2.38,59,0.79,3,10,255.7,Indonesia
+success,-0.789275,113.921327,1596974400,Rain and Humid,rain,78.58,81.61,73.38,0.84,1008.5,1.78,2.53,48,0.87,0,10,257.8,Indonesia
+success,-0.789275,113.921327,1596992400,Humid and Overcast,cloudy,74.97,76.72,74.01,0.97,1010.5,1.66,2.29,108,1,0,10,259.2,Indonesia
+success,-0.789275,113.921327,1597046400,Humid and Mostly Cloudy,partly-cloudy-day,89.09,99.15,74.85,0.63,1007.2,2.74,4.09,120,0.85,3,10,255.8,Indonesia
+success,-0.789275,113.921327,1597060800,Humid and Partly Cloudy,partly-cloudy-night,79.02,82.34,72.84,0.81,1008.8,1.34,2.65,332,0.47,0,10,258.1,Indonesia
+success,-0.789275,113.921327,1597078800,Rain and Humid,rain,76.07,77.92,75.02,0.97,1010.3,1.63,1.92,42,0.52,0,5.579,258.4,Indonesia
+success,-0.789275,113.921327,1597132800,Rain and Humid,rain,85.38,95.85,76.72,0.75,1008.2,2.61,4.64,124,0.76,3,10,257.8,Indonesia
+success,-0.789275,113.921327,1597147200,Humid and Overcast,cloudy,78.19,79.57,72.32,0.82,1010.2,1.82,2.16,170,0.9,0,10,259.4,Indonesia
+success,-0.789275,113.921327,1597165200,Possible Light Rain and Humid,rain,75.18,76.86,73.59,0.95,1011.7,1.58,1.99,35,0.99,0,9.549,260.8,Indonesia
+success,-0.789275,113.921327,1597219200,Humid and Overcast,cloudy,80.24,84.3,72.38,0.77,1010.4,2.12,4.94,97,0.99,3,10,258.5,Indonesia
+success,-0.789275,113.921327,1597233600,Overcast,cloudy,75.82,77.08,70.81,0.84,1011.1,1.22,1.63,6,0.98,0,10,258.5,Indonesia
+success,-0.789275,113.921327,1597251600,Overcast,cloudy,72.18,73.61,70.99,0.96,1011.3,1.64,2.34,18,0.96,0,10,260,Indonesia
+success,-0.789275,113.921327,1597305600,Humid and Partly Cloudy,partly-cloudy-day,92.49,100.53,72.1,0.52,1007.4,1.58,1.83,100,0.52,3,10,260.2,Indonesia
+success,-0.789275,113.921327,1597320000,Partly Cloudy,partly-cloudy-night,80.6,84.05,70.2,0.71,1007.8,1.43,2.84,34,0.55,0,10,261.9,Indonesia
+success,-0.789275,113.921327,1597338000,Mostly Cloudy,partly-cloudy-night,74.92,76.21,70.86,0.87,1010.1,1.92,2.65,327,0.84,0,10,259.1,Indonesia
+success,-0.789275,113.921327,1598947200,Possible Light Rain and Humid,rain,82.99,91.01,75.86,0.79,1005.8,2.82,4.07,124,0.99,3,10,258.8,Indonesia
+success,-0.789275,113.921327,1598961600,Rain and Humid,rain,74.99,76.49,72.4,0.92,1008.2,2.19,2.71,351,1,0,10,259.3,Indonesia
+success,-0.789275,113.921327,1598979600,Possible Light Rain and Humid,rain,74.33,76.17,74.33,1,1009,1.42,2.8,354,1,0,10,259.7,Indonesia
+success,-0.789275,113.921327,1599033600,Humid and Mostly Cloudy,partly-cloudy-day,89.76,99.91,74.73,0.61,1005.8,2.06,3.24,33,0.7,3,10,259.6,Indonesia
+success,-0.789275,113.921327,1599048000,Possible Light Rain and Humid,rain,78.68,81.78,73.29,0.84,1007.8,1.44,2.59,358,0.83,0,10,264,Indonesia
+success,-0.789275,113.921327,1599066000,Rain and Humid,rain,76.03,77.92,75.27,0.98,1009.6,1.56,3.03,221,1,0,10,266.5,Indonesia
+success,-0.789275,113.921327,1599120000,Possible Light Rain and Humid,rain,82.55,90.77,76.53,0.82,1007.5,1.73,5.91,128,0.7,3,10,258.7,Indonesia
+success,-0.789275,113.921327,1599134400,Possible Light Rain and Humid,rain,75.77,77.36,73.18,0.92,1009.5,1.6,1.77,281,0.88,0,8.493,263.2,Indonesia
+success,-0.789275,113.921327,1599152400,Possible Drizzle and Humid,rain,74.71,76.51,74.26,0.99,1010.5,1.01,1.04,34,1,0,10,261.4,Indonesia
+success,-0.789275,113.921327,1599206400,Rain and Humid,rain,86.29,96.3,75.84,0.71,1005.4,2.48,4.16,98,0.93,3,5.248,257.9,Indonesia
+success,-0.789275,113.921327,1599220800,Possible Light Rain and Humid,rain,77.11,78.66,73.32,0.88,1007.5,2.45,2.98,114,0.99,0,10,258.3,Indonesia
+success,-0.789275,113.921327,1599238800,Possible Light Rain and Humid,rain,74.21,75.99,73.91,0.99,1008.9,1.2,1.44,38,0.99,0,10,260.7,Indonesia
+success,-0.789275,113.921327,1599292800,Humid and Overcast,cloudy,86.15,95.1,74.9,0.69,1004.8,1.57,2.57,134,0.96,3,10,259.3,Indonesia
+success,-0.789275,113.921327,1599307200,Humid and Overcast,cloudy,78.05,79.43,72.3,0.83,1007.5,2.9,3.33,98,1,0,10,257.6,Indonesia
+success,-0.789275,113.921327,1599325200,Possible Light Rain and Humid,rain,73.79,75.53,73.52,0.99,1008.3,1.58,1.74,96,0.86,0,9.575,259.5,Indonesia
+success,-0.789275,113.921327,1599379200,Rain and Humid,rain,75.74,77.61,75.03,0.98,1006.4,3.48,14.47,309,1,3,10,259.7,Indonesia
+success,-0.789275,113.921327,1599393600,Possible Light Rain,rain,73.91,75.27,71.02,0.91,1008.6,2.35,7.54,288,1,0,10,262.4,Indonesia
+success,-0.789275,113.921327,1599411600,Possible Light Rain and Humid,rain,72.7,74.33,72.44,0.99,1009.2,1.55,4.09,351,1,0,6.038,262.8,Indonesia
+success,-0.789275,113.921327,1599465600,Rain and Humid,rain,76.57,78.44,75.35,0.96,1007.7,1.76,1.8,226,0.93,3,4.534,257.4,Indonesia
+success,-0.789275,113.921327,1599480000,Possible Light Rain,rain,74,75.37,71.15,0.91,1009.9,1,1.47,62,1,0,8.173,260.5,Indonesia
+success,-0.789275,113.921327,1599498000,Possible Light Rain,rain,71.79,73.43,71.79,1,1010.8,1.23,1.66,355,1,0,10,263.3,Indonesia
+success,-0.789275,113.921327,1599552000,Rain and Humid,rain,85.04,93.2,74.61,0.71,1007.7,1.79,4.4,152,0.96,3,7.85,264.5,Indonesia
+success,-0.789275,113.921327,1599566400,Possible Drizzle,rain,76.59,77.95,71.85,0.85,1009.5,1.1,1.22,339,0.77,0,10,264.2,Indonesia
+success,-0.789275,113.921327,1599584400,Rain and Humid,rain,74.05,75.87,74.05,1,1010.3,1.18,1.55,336,1,0,10,262.8,Indonesia
+success,-0.789275,113.921327,1599638400,Humid and Partly Cloudy,partly-cloudy-day,84.67,95.55,77.53,0.79,1005.4,1.9,3.81,222,0.52,3,10,262.7,Indonesia
+success,-0.789275,113.921327,1599652800,Possible Light Rain and Humid,rain,76.63,78.35,74.35,0.93,1007.6,1.6,2.27,352,0.68,0,10,266.4,Indonesia
+success,-0.789275,113.921327,1599670800,Possible Light Rain and Humid,rain,73.66,75.45,73.66,1,1007.6,1.57,2.31,330,0.98,0,9.151,268,Indonesia
+success,-0.789275,113.921327,1599724800,Possible Light Rain and Humid,rain,82.38,91.55,77.78,0.86,1004,3.46,4.37,42,0.52,3,6.261,257.3,Indonesia
+success,-0.789275,113.921327,1599739200,Possible Drizzle and Humid,rain,74.6,76.12,72.33,0.93,1006.8,1.77,3.92,254,0.8,0,10,259.2,Indonesia
+success,-0.789275,113.921327,1599757200,Possible Light Rain and Humid,rain,75,76.84,74.64,0.99,1007.9,1.74,7.21,161,1,0,10,261.6,Indonesia
+success,-0.789275,113.921327,1599811200,Possible Light Rain and Humid,rain,84.05,93.16,76.23,0.77,1006.3,1.47,3.13,319,1,3,9.071,260.5,Indonesia
+success,-0.789275,113.921327,1599825600,Humid and Overcast,cloudy,77.36,78.77,72.33,0.85,1008.4,0.92,1.45,31,0.99,0,10,262,Indonesia
+success,-0.789275,113.921327,1599843600,Possible Drizzle and Humid,rain,74.98,76.63,73.35,0.95,1009.8,1.24,1.3,53,0.89,0,10,265,Indonesia
+success,-0.789275,113.921327,1599897600,Humid and Partly Cloudy,partly-cloudy-day,88.4,97.28,74,0.63,1007.3,1.88,3.93,161,0.48,3,10,262.4,Indonesia
+success,-0.789275,113.921327,1599912000,Possible Light Rain,rain,78.38,79.66,71.6,0.8,1009.1,2.55,2.69,281,0.65,0,6.584,264.2,Indonesia
+success,-0.789275,113.921327,1599930000,Rain and Humid,rain,75.38,77.29,75.23,1,1010.1,1.52,2.78,6,0.94,0,10,267.8,Indonesia
+success,-0.789275,113.921327,1599984000,Overcast,cloudy,77.41,78.74,71.74,0.83,1009.1,1.46,4.76,225,0.98,3,10,262.7,Indonesia
+success,-0.789275,113.921327,1599998400,Overcast,cloudy,74.52,75.75,70.31,0.87,1010.7,0.86,2.28,296,1,0,10,263.8,Indonesia
+success,-0.789275,113.921327,1600016400,Overcast,cloudy,72.58,73.96,70.78,0.94,1011.5,1.4,1.61,299,1,0,10,265.6,Indonesia
+success,-0.789275,113.921327,1601539200,Possible Light Rain and Humid,rain,84.98,95.4,76.91,0.77,1004.7,2.18,2.85,153,0.74,3,9.059,264.4,Indonesia
+success,-0.789275,113.921327,1601553600,Possible Light Rain and Humid,rain,76.97,78.43,72.61,0.86,1007.5,2.81,3.18,329,0.67,0,10,263.7,Indonesia
+success,-0.789275,113.921327,1601571600,Possible Light Rain and Humid,rain,75.11,77,74.97,1,1008.2,1.85,1.93,303,0.93,0,10,262.4,Indonesia
+success,-0.789275,113.921327,1601625600,Humid and Mostly Cloudy,partly-cloudy-day,84.84,93.7,75.46,0.74,1005.4,2.61,2.95,255,0.78,3,10,258.5,Indonesia
+success,-0.789275,113.921327,1601640000,Overcast,cloudy,77.56,78.92,71.96,0.83,1007.8,2.01,3.15,312,0.92,0,10,261.2,Indonesia
+success,-0.789275,113.921327,1601658000,Humid and Overcast,cloudy,75.3,76.88,73.02,0.93,1009,1.93,3.03,296,0.96,0,10,263.4,Indonesia
+success,-0.789275,113.921327,1601712000,Possible Light Rain and Humid,rain,83,91.37,76.27,0.8,1006.5,2.7,3.15,42,0.94,3,10,260,Indonesia
+success,-0.789275,113.921327,1601726400,Humid and Mostly Cloudy,partly-cloudy-night,75.96,77.39,72.11,0.88,1009.8,2.19,3.76,287,0.8,0,10,262.5,Indonesia
+success,-0.789275,113.921327,1601744400,Humid and Overcast,cloudy,75.17,76.87,73.77,0.95,1010.2,2.1,2.53,115,1,0,10,267.8,Indonesia
+success,-0.789275,113.921327,1601798400,Overcast,cloudy,87.16,93.5,71.73,0.6,1006.8,1.85,4.42,127,0.89,3,10,264.4,Indonesia
+success,-0.789275,113.921327,1601812800,Overcast,cloudy,76.6,77.63,69.24,0.78,1009.4,1.57,2.17,347,0.97,0,10,266.2,Indonesia
+success,-0.789275,113.921327,1601830800,Overcast,cloudy,73.67,74.85,69.7,0.87,1010,2.06,2.61,270,1,0,10,265.7,Indonesia
+success,-0.789275,113.921327,1601884800,Humid and Overcast,cloudy,87.05,96.56,75.05,0.68,1005.8,1.92,3.1,77,0.99,2,7.857,260.6,Indonesia
+success,-0.789275,113.921327,1601899200,Overcast,cloudy,76.92,78.14,70.82,0.81,1008.2,2.87,3.64,39,0.98,0,10,264.4,Indonesia
+success,-0.789275,113.921327,1601917200,Humid and Mostly Cloudy,partly-cloudy-night,74.71,76.35,73.25,0.95,1009.8,1.31,1.78,345,0.86,0,10,263.4,Indonesia
+success,-0.789275,113.921327,1601971200,Humid and Mostly Cloudy,partly-cloudy-day,83.77,94.87,78.44,0.84,1005.8,2.42,5.39,210,0.82,3,7.15,264.1,Indonesia
+success,-0.789275,113.921327,1601985600,Possible Light Rain and Humid,rain,76.38,77.86,72.58,0.88,1008.8,2.6,2.85,319,0.92,0,10,265.4,Indonesia
+success,-0.789275,113.921327,1602003600,Humid and Overcast,cloudy,74.63,76.44,74.32,0.99,1009.7,1.03,1.15,350,1,0,10,266.8,Indonesia
+success,-0.789275,113.921327,1602057600,Humid and Overcast,cloudy,88.02,95.76,73,0.61,1004.5,1.6,3.5,127,1,2,10,263,Indonesia
+success,-0.789275,113.921327,1602072000,Overcast,cloudy,78.7,79.96,71.42,0.78,1006.9,1.84,2.73,3,0.99,0,10,263.1,Indonesia
+success,-0.789275,113.921327,1602090000,Humid and Overcast,cloudy,75.29,76.86,72.93,0.92,1008.2,1.1,1.71,288,1,0,10,265.4,Indonesia
+success,-0.789275,113.921327,1602144000,Humid and Overcast,cloudy,84.77,92.45,74.22,0.71,1005.1,2.76,2.92,245,1,2,10,260.5,Indonesia
+success,-0.789275,113.921327,1602158400,Humid and Overcast,cloudy,76.8,78.19,72.1,0.85,1008.2,1.26,1.53,297,0.99,0,10,261.8,Indonesia
+success,-0.789275,113.921327,1602176400,Rain and Humid,rain,73.58,75.26,73.08,0.98,1008.9,1.69,1.73,256,1,0,10,264.8,Indonesia
+success,-0.789275,113.921327,1602230400,Possible Light Rain and Humid,rain,81.65,87.54,74.21,0.78,1006.6,1.77,2.62,127,1,2,10,258.9,Indonesia
+success,-0.789275,113.921327,1602244800,Overcast,cloudy,75.89,77.28,71.82,0.87,1009.1,0.68,1.52,24,1,0,10,263.7,Indonesia
+success,-0.789275,113.921327,1602262800,Humid and Overcast,cloudy,73.35,75.07,73.24,1,1009,0.99,8.34,69,0.91,0,10,267.4,Indonesia
+success,-0.789275,113.921327,1602316800,Possible Light Rain and Humid,rain,83.98,93.54,76.75,0.79,1006,1.96,4.51,119,0.81,3,10,263.7,Indonesia
+success,-0.789275,113.921327,1602331200,Humid and Overcast,cloudy,76.6,78.12,72.97,0.89,1008.1,1.84,2.93,351,0.99,0,10,265.5,Indonesia
+success,-0.789275,113.921327,1602349200,Humid and Overcast,cloudy,74.56,76.25,73.48,0.96,1008.6,2.16,2.25,347,0.94,0,10,266.9,Indonesia
+success,-0.789275,113.921327,1602403200,Possible Light Rain and Humid,rain,86.9,97.49,76.08,0.7,1003.8,2.28,2.91,108,0.87,2,10,263.5,Indonesia
+success,-0.789275,113.921327,1602417600,Humid and Overcast,cloudy,78.86,82.03,72.82,0.82,1006.4,1.61,2.73,359,0.88,0,10,264.5,Indonesia
+success,-0.789275,113.921327,1602435600,Possible Light Rain and Humid,rain,76.15,77.97,74.84,0.96,1006.9,1.63,2.37,45,0.99,0,5.844,263.9,Indonesia
+success,-0.789275,113.921327,1602489600,Possible Light Rain and Humid,rain,76.02,77.57,73.03,0.9,1005.9,1.02,3.82,253,1,2,10,262,Indonesia
+success,-0.789275,113.921327,1602504000,Overcast,cloudy,74.78,76.19,71.69,0.9,1008.5,1.36,2.09,242,1,0,10,263.7,Indonesia
+success,-0.789275,113.921327,1602522000,Humid and Overcast,cloudy,73.72,75.38,72.99,0.98,1007.9,2.09,2.12,67,1,0,10,264.8,Indonesia
+success,-0.789275,113.921327,1602576000,Humid and Overcast,cloudy,85.17,96.48,77.6,0.78,1004.9,2.7,6.85,72,0.93,2,7.287,260.2,Indonesia
+success,-0.789275,113.921327,1602590400,Humid and Overcast,cloudy,77.65,79.02,72.06,0.83,1007.6,1.8,2.92,39,0.92,0,8.533,262.6,Indonesia
+success,-0.789275,113.921327,1602608400,Overcast,cloudy,73.85,75.31,71.75,0.93,1008.4,1.61,2.86,30,1,0,10,264.6,Indonesia
+success,-0.789275,113.921327,1604217600,Humid and Mostly Cloudy,partly-cloudy-day,84.38,92.46,74.89,0.73,1007,2.9,6.39,206,0.74,2,10,261.3,Indonesia
+success,-0.789275,113.921327,1604232000,Rain,rain,75.8,77.16,71.57,0.87,1010.2,2.71,3.29,299,0.89,0,10,262.9,Indonesia
+success,-0.789275,113.921327,1604250000,Possible Light Rain,rain,72.76,74.23,71.43,0.96,1010.8,2.84,7.67,176,0.93,0,10,265.2,Indonesia
+success,-0.789275,113.921327,1604304000,Humid and Mostly Cloudy,partly-cloudy-day,84.47,93.91,76.28,0.77,1008.2,2.72,6.68,131,0.8,2,10,262.6,Indonesia
+success,-0.789275,113.921327,1604318400,Rain and Humid,rain,75.46,77.05,73.1,0.92,1011.8,4.68,9.8,203,0.75,0,3.378,263.1,Indonesia
+success,-0.789275,113.921327,1604336400,Overcast,cloudy,72.94,74.4,71.45,0.95,1012.3,1.62,1.89,9,0.88,0,10,267.5,Indonesia
+success,-0.789275,113.921327,1604390400,Humid and Mostly Cloudy,partly-cloudy-day,86.73,95.04,74.02,0.66,1008.9,1.8,3.99,188,0.76,2,10,259.4,Indonesia
+success,-0.789275,113.921327,1604404800,Mostly Cloudy,partly-cloudy-night,76.88,78.19,71.47,0.83,1011.4,2.75,2.75,208,0.77,0,10,261.8,Indonesia
+success,-0.789275,113.921327,1604422800,Overcast,cloudy,73.64,75.03,71.2,0.92,1011.9,2.52,2.52,40,0.98,0,10,267.9,Indonesia
+success,-0.789275,113.921327,1604476800,Humid and Partly Cloudy,partly-cloudy-day,88.53,96.81,73.38,0.61,1007.3,1.31,2.63,45,0.45,3,10,260.3,Indonesia
+success,-0.789275,113.921327,1604491200,Possible Light Rain,rain,78.32,79.6,71.57,0.8,1010.1,1.73,2.21,331,0.56,0,10,263.1,Indonesia
+success,-0.789275,113.921327,1604509200,Possible Light Rain and Humid,rain,75.09,76.66,72.85,0.93,1010.4,1.75,3.38,289,0.93,0,4.37,262.4,Indonesia
+success,-0.789275,113.921327,1604563200,Humid and Overcast,cloudy,87.4,96.54,74.58,0.66,1007.6,1.75,2.65,336,0.95,2,10,253.5,Indonesia
+success,-0.789275,113.921327,1604577600,Rain,rain,78.06,79.39,71.86,0.81,1010.9,1.65,1.92,340,0.89,0,10,256.3,Indonesia
+success,-0.789275,113.921327,1604595600,Humid and Mostly Cloudy,partly-cloudy-night,74.47,76.16,73.47,0.97,1011.3,1.41,2.38,287,0.83,0,10,261.1,Indonesia
+success,-0.789275,113.921327,1604649600,Humid and Mostly Cloudy,partly-cloudy-day,82.71,89.74,74.82,0.77,1009.4,2.46,5.92,77,0.81,2,10,258.8,Indonesia
+success,-0.789275,113.921327,1604664000,Humid and Overcast,cloudy,76.98,78.39,72.25,0.85,1011.2,1.41,2.5,0,1,0,10,259.2,Indonesia
+success,-0.789275,113.921327,1604682000,Humid and Overcast,cloudy,74.28,75.8,72.29,0.94,1011,1.28,1.71,339,0.88,0,10,262.3,Indonesia
+success,-0.789275,113.921327,1604736000,Humid and Mostly Cloudy,partly-cloudy-day,86.69,94.27,73.26,0.64,1006.9,3.4,3.77,258,0.81,2,10,258,Indonesia
+success,-0.789275,113.921327,1604750400,Possible Light Rain,rain,77.78,78.91,70.27,0.78,1009.6,2.05,2.05,328,0.89,0,10,258.1,Indonesia
+success,-0.789275,113.921327,1604768400,Possible Drizzle and Humid,rain,74.38,75.98,72.83,0.95,1010,1.43,2.1,348,1,0,10,261.3,Indonesia
+success,-0.789275,113.921327,1604822400,Humid and Mostly Cloudy,partly-cloudy-day,81.02,85.84,72.98,0.77,1007.8,1.6,2.71,109,0.76,2,10,259.9,Indonesia
+success,-0.789275,113.921327,1604836800,Mostly Cloudy,partly-cloudy-night,76.08,77.35,71.03,0.84,1009.8,0.92,1.35,142,0.61,0,10,259.9,Indonesia
+success,-0.789275,113.921327,1604854800,Mostly Cloudy,partly-cloudy-night,72.91,74.4,71.6,0.96,1009.9,2.01,2.71,223,0.71,0,10,264.1,Indonesia
+success,-0.789275,113.921327,1604908800,Humid and Mostly Cloudy,partly-cloudy-day,85.32,91.94,72.71,0.66,1008.4,1.27,5.04,15,0.61,2,10,264.5,Indonesia
+success,-0.789275,113.921327,1604923200,Clear,clear-night,75.46,76.47,68.84,0.8,1010.2,2.48,3.35,320,0.17,0,10,263.3,Indonesia
+success,-0.789275,113.921327,1604941200,Partly Cloudy,partly-cloudy-night,72.31,73.52,69.54,0.91,1010.2,1.32,2.5,282,0.5,0,10,263.6,Indonesia
+success,-0.789275,113.921327,1604995200,Mostly Cloudy,partly-cloudy-day,90.99,96.19,69.4,0.49,1006.8,2.65,4.17,78,0.64,2,10,262,Indonesia
+success,-0.789275,113.921327,1605009600,Partly Cloudy,partly-cloudy-night,80.29,82.96,68.12,0.67,1008.4,2.25,2.43,143,0.54,0,10,262.2,Indonesia
+success,-0.789275,113.921327,1605027600,Partly Cloudy,partly-cloudy-night,74.45,75.81,71.25,0.9,1010.1,0.98,1.44,237,0.56,0,10,266.5,Indonesia
+success,-0.789275,113.921327,1605081600,Mostly Cloudy,partly-cloudy-day,90.3,97.37,71.68,0.54,1006.5,2.26,3.62,51,0.87,2,10,262.6,Indonesia
+success,-0.789275,113.921327,1605096000,Partly Cloudy,partly-cloudy-night,79.28,82.55,71.78,0.78,1009.1,1.59,1.87,27,0.59,0,10,261,Indonesia
+success,-0.789275,113.921327,1605114000,Humid and Mostly Cloudy,partly-cloudy-night,75.46,77.03,73.02,0.92,1009.8,1.34,1.89,342,0.6,0,10,264.4,Indonesia
+success,-0.789275,113.921327,1605168000,Overcast,cloudy,91.01,98.28,71.71,0.53,1006.1,2.17,5.28,67,0.98,2,10,262.9,Indonesia
+success,-0.789275,113.921327,1605182400,Overcast,cloudy,80.69,84.6,71.35,0.73,1008.6,2.23,2.95,358,0.96,0,10,263.7,Indonesia
+success,-0.789275,113.921327,1605200400,Humid and Mostly Cloudy,partly-cloudy-night,76.56,78.09,72.99,0.89,1009.2,1.69,1.95,11,0.81,0,10,261,Indonesia
+success,-0.789275,113.921327,1605254400,Humid and Mostly Cloudy,partly-cloudy-day,88.91,98.65,74.63,0.63,1004.6,2.05,4.19,79,0.64,2,10,258.6,Indonesia
+success,-0.789275,113.921327,1605268800,Humid and Mostly Cloudy,partly-cloudy-night,79.72,83.35,72.06,0.77,1007.2,1.34,1.63,322,0.71,0,10,258,Indonesia
+success,-0.789275,113.921327,1605286800,Possible Light Rain and Humid,rain,76.36,78.02,73.89,0.92,1008,1.21,1.72,177,0.82,0,10,262.4,Indonesia
+success,-0.789275,113.921327,1606809600,Possible Light Rain and Humid,rain,83.46,92.58,76.7,0.8,1006.3,3.6,4.34,23,0.74,3,8.233,251.9,Indonesia
+success,-0.789275,113.921327,1606824000,Possible Drizzle,rain,75.67,76.93,70.85,0.85,1008.7,1.76,2.64,318,0.78,0,10,250.2,Indonesia
+success,-0.789275,113.921327,1606842000,Humid and Mostly Cloudy,partly-cloudy-night,73.82,75.48,73.03,0.97,1009.1,1.47,2.75,203,0.83,0,10,253.9,Indonesia
+success,-0.789275,113.921327,1606896000,Possible Drizzle and Humid,rain,86.38,95.85,75.3,0.7,1006.1,1.48,3.1,112,0.86,2,10,249.7,Indonesia
+success,-0.789275,113.921327,1606910400,Humid and Overcast,cloudy,77.21,78.6,72.12,0.84,1008.1,1.63,2.6,29,0.98,0,10,252.5,Indonesia
+success,-0.789275,113.921327,1606928400,Humid and Overcast,cloudy,74.02,75.76,73.59,0.99,1008.8,1.7,1.91,323,0.98,0,10,254.3,Indonesia
+success,-0.789275,113.921327,1606982400,Humid and Overcast,cloudy,88.51,97.86,74.41,0.63,1004.8,2.98,7.77,311,0.9,2,10,249.6,Indonesia
+success,-0.789275,113.921327,1606996800,Overcast,cloudy,77.66,78.92,71.29,0.81,1007.7,2.06,5.7,271,0.98,0,10,250.1,Indonesia
+success,-0.789275,113.921327,1607014800,Humid and Mostly Cloudy,partly-cloudy-night,74.16,75.94,73.96,0.99,1008.2,1.33,1.87,148,0.85,0,10,252,Indonesia
+success,-0.789275,113.921327,1607068800,Humid and Partly Cloudy,partly-cloudy-day,89.7,99.66,74.58,0.61,1004.5,2.93,9.72,197,0.39,3,10,250.4,Indonesia
+success,-0.789275,113.921327,1607083200,Partly Cloudy,partly-cloudy-night,78.13,79.31,70.73,0.78,1007.8,2.4,3.64,334,0.49,0,10,251.4,Indonesia
+success,-0.789275,113.921327,1607101200,Humid and Partly Cloudy,partly-cloudy-night,74.53,76.22,73.48,0.97,1008.3,1.09,3.07,293,0.53,0,10,254.6,Indonesia
+success,-0.789275,113.921327,1607155200,Overcast,cloudy,89.42,95.99,71.37,0.55,1005.9,3.83,8.58,291,0.94,2,10,248.6,Indonesia
+success,-0.789275,113.921327,1607169600,Mostly Cloudy,partly-cloudy-night,79.47,82.65,70.98,0.75,1007.8,3.01,3.99,260,0.61,0,10,249.8,Indonesia
+success,-0.789275,113.921327,1607187600,Humid and Mostly Cloudy,partly-cloudy-night,73.93,75.5,72.51,0.95,1008.5,1.41,2.32,317,0.87,0,10,253.4,Indonesia
+success,-0.789275,113.921327,1607241600,Humid and Mostly Cloudy,partly-cloudy-day,89.08,98.99,74.72,0.63,1006.4,2.43,6.18,317,0.81,3,10,247.7,Indonesia
+success,-0.789275,113.921327,1607256000,Humid and Mostly Cloudy,partly-cloudy-night,79.26,82.6,72.12,0.79,1008.4,2.28,4.96,307,0.86,0,10,250.7,Indonesia
+success,-0.789275,113.921327,1607274000,Humid and Mostly Cloudy,partly-cloudy-night,75.8,77.4,73.28,0.92,1008.6,2.76,9.74,343,0.6,0,10,254.1,Indonesia
+success,-0.789275,113.921327,1607328000,Overcast,cloudy,90.7,96.68,70.39,0.52,1005.3,2.9,3.13,266,0.97,2,10,247.3,Indonesia
+success,-0.789275,113.921327,1607342400,Overcast,cloudy,80.69,84.11,70.04,0.7,1009,2.23,3.38,286,0.99,0,10,252.4,Indonesia
+success,-0.789275,113.921327,1607360400,Humid and Mostly Cloudy,partly-cloudy-night,76.03,77.67,73.58,0.92,1009.4,1.2,1.29,331,0.83,0,10,255.4,Indonesia
+success,-0.789275,113.921327,1607414400,Humid and Partly Cloudy,partly-cloudy-day,91.01,98.6,72.03,0.54,1005.7,3.48,6.91,312,0.52,3,10,247.5,Indonesia
+success,-0.789275,113.921327,1607428800,Partly Cloudy,partly-cloudy-night,81.63,85.07,69.41,0.67,1007.9,2.81,5.2,312,0.58,0,10,250.1,Indonesia
+success,-0.789275,113.921327,1607446800,Possible Drizzle and Humid,rain,76.06,77.52,72.39,0.88,1008.2,1.59,2.53,10,0.97,0,10,254.7,Indonesia
+success,-0.789275,113.921327,1607500800,Humid and Overcast,cloudy,87.54,96.56,74.42,0.65,1004.8,2.6,5.83,301,0.99,2,10,250.5,Indonesia
+success,-0.789275,113.921327,1607515200,Overcast,cloudy,79.59,82.98,71.53,0.76,1007.1,2.21,4.89,298,0.99,0,10,253.5,Indonesia
+success,-0.789275,113.921327,1607533200,Humid and Overcast,cloudy,75.17,76.89,73.89,0.96,1007.6,1.29,1.96,20,1,0,10,254.2,Indonesia
+success,-0.789275,113.921327,1607587200,Humid and Mostly Cloudy,partly-cloudy-day,89.8,98.88,73.78,0.59,1005.2,2.09,3.49,303,0.67,3,10,250.1,Indonesia
+success,-0.789275,113.921327,1607601600,Humid and Mostly Cloudy,partly-cloudy-night,79.76,83.44,72.13,0.78,1007.9,2.07,2.45,8,0.82,0,10,251.7,Indonesia
+success,-0.789275,113.921327,1607619600,Humid and Mostly Cloudy,partly-cloudy-night,75.51,77.14,73.39,0.93,1008.3,1.81,2.34,356,0.66,0,10,251.7,Indonesia
+success,-0.789275,113.921327,1607673600,Humid and Mostly Cloudy,partly-cloudy-day,86.69,95.44,74.47,0.67,1005.7,2.25,3.87,131,0.79,3,10,250.3,Indonesia
+success,-0.789275,113.921327,1607688000,Overcast,cloudy,77.61,78.87,71.28,0.81,1008.8,1.82,2,129,1,0,10,251.1,Indonesia
+success,-0.789275,113.921327,1607706000,Possible Drizzle and Humid,rain,74.33,75.99,73.22,0.96,1009.4,1.36,1.95,249,0.97,0,10,250.4,Indonesia
+success,-0.789275,113.921327,1607760000,Possible Light Rain and Humid,rain,84.53,92.91,75.13,0.74,1005.3,2.48,4.16,84,0.96,2,10,250.9,Indonesia
+success,-0.789275,113.921327,1607774400,Possible Light Rain and Humid,rain,76.56,78.14,73.37,0.9,1008.1,1.93,2.6,56,1,0,3.607,251.3,Indonesia
+success,-0.789275,113.921327,1607792400,Possible Light Rain and Humid,rain,73.12,74.67,72.04,0.96,1009.6,1.92,9.53,255,1,0,10,253.9,Indonesia
+success,-0.789275,113.921327,1607846400,Humid and Overcast,cloudy,86.96,95.63,74.29,0.66,1005.7,2.44,5.47,158,0.95,2,10,252,Indonesia
+success,-0.789275,113.921327,1607860800,Possible Drizzle,rain,76.19,77.37,70.34,0.82,1008.6,2.73,2.89,282,1,0,10,250.1,Indonesia
+success,-0.789275,113.921327,1607878800,Mostly Cloudy,partly-cloudy-night,72.64,74.15,71.66,0.97,1008.8,1.35,2.2,349,0.78,0,10,254.8,Indonesia
